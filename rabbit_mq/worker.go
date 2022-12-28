@@ -1,4 +1,4 @@
-package main
+package rabbit_mq
 
 import (
 	"bytes"
